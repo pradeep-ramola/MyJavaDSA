@@ -1,3 +1,3 @@
 # MyJavaDSA
 
-[Link](UsingArray/create/) 
+#[1 Linked List](/LinkedList) 
