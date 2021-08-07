@@ -1,3 +1,3 @@
 # MyJavaDSA
 
-**[1 Linked List]**(/LinkedList) 
+**1 Linked List** [](/LinkedList) 
