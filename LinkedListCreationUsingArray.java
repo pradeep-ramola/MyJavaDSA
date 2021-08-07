@@ -1,6 +1,6 @@
+package LinkedList;
 
-
-public class LinkedListCreationUsingArray {
+public class LinkedListOne {
 	  //  Node
 	static class Node  
 	{ 
@@ -32,7 +32,7 @@ public class LinkedListCreationUsingArray {
 	static Node arrayToLinkedList(int arr[], int n) 
 	{ 
 	    head = null; 
-	    for (int i = 0; i < n ; i++) 
+	    for (int i = n-1; i >= 0 ; i--) 
 	        head = insert(head, arr[i]); 
 	    return head; 
 	} 
