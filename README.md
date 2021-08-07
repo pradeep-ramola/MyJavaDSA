@@ -1,3 +1,4 @@
-# MyJavaDSA
+# MyJava DSA
 
-**1 Linked List** 
+#[Linked List](/LinkedList) 
+
