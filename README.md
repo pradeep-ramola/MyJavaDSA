@@ -1,4 +1,4 @@
 # MyJava DSA
 
-#[Linked List](/LinkedList) 
+[#Linked List](/LinkedList) 
 
