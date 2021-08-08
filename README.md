@@ -10,7 +10,7 @@
 <li><h4>Palindrome List 234</h4></li>
 
 Using Array https://github.com/pradeep-ramola/MyJavaDSA/tree/main/LinkedList/Palindrome/PalindromeUsingArrayList.java <br>
-Mid Reverse https://github.com/pradeep-ramola/MyJavaDSA/tree/main/LinkedList/Palindrome/MidReverse.java
+Mid Reverse https://github.com/pradeep-ramola/MyJavaDSA/tree/main/LinkedList/Palindrome/MidReversePalindrome.java
 
  
 
